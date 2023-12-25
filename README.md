@@ -1,4 +1,4 @@
-# av-snbluetitanium
+# Blue Titanium
 Blue Titanium theme
 
 
