@@ -1,0 +1,17 @@
+{
+        "identifier": "com.githubandre.sn-avbluetitanium",
+        "name": "AV Blue Titanium",
+        "content_type": "SN|Theme",
+        "area": "themes",
+        "version": "1.0.1",
+        "description": "Blue accented Titanium",
+        "url": "https://cdn.jsdelivr.net/gh/affvalente/av-snbluetitanium@master/av-snbluetitanium.css",
+        "download_url": "https://github.com/affvalente/av-snbluetitanium/archive/refs/heads/main.zip",
+        "latest_url": "https://cdn.jsdelivr.net/gh/affvalente/av-snbluetitanium@master/ext.json",
+        "dock_icon": {
+           "type": "circle",
+           "background_color": "#0763c5",
+           "foreground_color": "#ffffff",
+           "border_color": "#0763c5"
+        }
+}
