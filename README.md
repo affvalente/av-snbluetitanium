@@ -3,5 +3,5 @@ Blue Titanium theme
 
 
 ```txt
-https://cdn.jsdelivr.net/gh/affvalente/av-snmono@master/ext.json
+https://cdn.jsdelivr.net/gh/affvalente/av-snbluetitanium@master/ext.json
 ```
